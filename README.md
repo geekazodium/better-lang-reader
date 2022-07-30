@@ -27,6 +27,8 @@ add this to dependencies
 dependencies {
     	//...
 	modImplementation 'com.github.geekazodium:better-lang-reader:main-SNAPSHOT'
+	//although "include" is not required it's recommended that you keep this.
+	include 'com.github.geekazodium:better-lang-reader:main-SNAPSHOT'
 	//...
 }
 ```
