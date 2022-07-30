@@ -26,7 +26,7 @@ add this to dependencies
 ```
 dependencies {
     	//...
-    	implementation 'com.github.geekazodium:better-lang-reader:main-SNAPSHOT'
+	modImplementation 'com.github.geekazodium:better-lang-reader:main-SNAPSHOT'
 	//...
 }
 ```
