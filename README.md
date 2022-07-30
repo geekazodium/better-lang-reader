@@ -17,13 +17,16 @@ and to get "thingy", you can use the usual TranslatableText for "something.thing
 add to repositories
 ```
 repositories {
-	...
+	//...
 	maven { url 'https://jitpack.io' }
+	//...
 }
 ```
 add this to dependencies
 ```
 dependencies {
-    implementation 'com.github.geekazodium:better-lang-reader:-SNAPSHOT'
+    	//...
+    	implementation 'com.github.geekazodium:better-lang-reader:-SNAPSHOT'
+	//...
 }
 ```
