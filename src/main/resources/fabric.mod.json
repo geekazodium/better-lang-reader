@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "better-lang-reader",
+  "version": "${version}",
+
+  "name": "Better Lang Reader",
+  "description": "better formatting for lang files",
+  "authors": [
+    "Geekazodium"
+  ],
+  "contact": {
+    "homepage": "https://github.com/geekazodium",
+    "sources": "https://github.com/geekazodium/better-lang-reader"
+  },
+
+  "license": "MIT",
+
+  "environment": "*",
+  "mixins": [
+    "better-lang-reader.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.14.6",
+    "minecraft": "~1.18",
+    "java": ">=17"
+  }
+}
