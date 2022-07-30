@@ -27,7 +27,7 @@ add this to dependencies
 dependencies {
     	//...
 	modImplementation 'com.github.geekazodium:better-lang-reader:main-SNAPSHOT'
-	//although "include" is not required it's recommended that you keep this.
+	//although "include" is not required it's recommended that you keep this as it's annoying to have to download this mod seperately when using minecraft launcher
 	include 'com.github.geekazodium:better-lang-reader:main-SNAPSHOT'
 	//...
 }
