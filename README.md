@@ -11,8 +11,4 @@ basically this allows you to have more organized lang files such as:
         }   
     }
 ```
-and to use get "thingy", you can use the usual TranslatableText for "something.thing"
-
-## License
-
-This project 
+and to get "thingy", you can use the usual TranslatableText for "something.thing"
